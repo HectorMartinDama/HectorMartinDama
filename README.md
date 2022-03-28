@@ -1,4 +1,4 @@
-### Hi I'm Hector 👋
+### Hi, I'm Hector 👋
 
 <!--
 **HectorMartinDama/HectorMartinDama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
