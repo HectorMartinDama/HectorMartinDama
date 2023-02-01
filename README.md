@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">A passionate backend developer from Madrid, Spain</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, GraphQL and Redis**
 
-- 💬 Ask me about **Java, Python and JavaScript**
+- 💬 Ask me about **Java, JavaScript and Python**
 
 - 📫 How to reach me **hectormartindama@gmail.com**
 
