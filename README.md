@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/héctor-martín-a88a761a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="héctor martín" height="30" width="40" /></a>
+<a href="https://www.frontendmentor.io/profile/HectorMartinDama" target="blank">Frontend Mentor</a>
 
 <h3 align="left">Stats</h3>
 
